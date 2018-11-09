@@ -38,19 +38,19 @@ disqus_shortname:   ggoulart
   #ad-slot:
 #bing-verify:
 #email:
-twitter:            username
-facebook:           username
-github-url:         username
+#twitter:           username
+#facebook:          username
+github-url:         https://github.com/ggoulart/
 #stackoverflow:     123456/username   from a "http://stackoverflow.com/users/123456/username" link
-#linkedin:          username
+linkedin:           https://www.linkedin.com/in/ggoulart/
 #xing:              username
-instagram:          username
-#lastfm:            username
+#instagram:         username
+lastfm:             https://www.last.fm/pt/user/Calimkun
 #tumblr:            username
 #medium:            '@username'
 #pinterest:         username
 #foursquare:        username
-steam:              username
+#steam:             username
 #dribbble:          username
 #youtube:           username
 #youtube-channel:   channel
@@ -61,6 +61,7 @@ steam:              username
 #keybase:           username
 #xmpp:              username@server.com
 #hackernews:        username
+xbox                ggou1art
 
 # Gems
 gems:

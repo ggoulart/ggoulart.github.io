@@ -8,7 +8,7 @@ logo:               'assets/img/logo.gif'
 background:         'assets/img/placeholder-min.jpg'
 tiled_bg:           false   # Set this true if you want to tile your background image, otherwise it will be covered
 locale:             pt_BR
-url:                http://ggoulart.com
+url:                https://ggoulart.com
 
 # Jekyll
 permalink:          /:title/

@@ -38,7 +38,7 @@ google:
   #ad-slot:
 #bing-verify:
 email:              gustavo@ggoulart.com
-#twitter:           username
+# twitter:            ggouIart
 #facebook:          username
 github-url:         ggoulart
 #stackoverflow:     123456/username   from a "http://stackoverflow.com/users/123456/username" link
@@ -64,14 +64,19 @@ lastfm:             Calimkun
 #xbox:              ggou1art
 
 # Gems
-gems:
+plugins:
   - jekyll-mentions
   - jekyll-feed
   - jekyll-sitemap
   - jekyll-gist
+  - jekyll-seo-tag
 
 jekyll-mentions:
     base_url: https://github.com
+
+# SEO
+lang: en_US
+
 
 # Exclude list
 exclude: [README.md, Gemfile, Gemfile.lock, node_modules, gulpfile.js, package.json, _site, src, vendor, CNAME, LICENSE, Rakefile]
